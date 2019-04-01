@@ -70,5 +70,17 @@ namespace WpfApp1
         {
             LB_aranan.Items.RemoveAt(LB_aranan.Items.IndexOf(LB_aranan.SelectedItem));
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            
+            
+            
+        }
     }
 }

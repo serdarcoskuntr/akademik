@@ -13,3 +13,5 @@ C:\Users\serda\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateRes
 C:\Users\serda\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
 C:\Users\serda\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
 C:\Users\serda\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\serda\source\repos\WpfApp1\WpfApp1\obj\Debug\giris.g.cs
+C:\Users\serda\source\repos\WpfApp1\WpfApp1\obj\Debug\giris.baml
